@@ -9,7 +9,8 @@ hr {
   width: 5%;
 }
 h1 {
-  color: #66bfbf
+  color: #66bfbf;
+  text-decoration:underline;
 }
 h3 {
   color: #66bfbf
